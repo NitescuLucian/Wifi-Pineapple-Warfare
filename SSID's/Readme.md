@@ -15,7 +15,7 @@ Q: Dose the above lists represent any securty concerns?
 A: No, but they can be used in various local level attacks in order to test security of wifi capable devices. 
 
 Q: Is this data 100% real?
-A: No. I used multiple public aviable resources to generate the lists, including https://wigle.net/.
+A: No. I used multiple public available resources to generate the lists, including https://wigle.net/.
 
 Q: Public data or not?
 A: Yes. The owners of all AP's allowed the broadcast of the Wifi SSID.
